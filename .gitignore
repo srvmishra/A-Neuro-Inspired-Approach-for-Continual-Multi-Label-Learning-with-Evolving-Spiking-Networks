@@ -1,0 +1,3 @@
+figures/*
+checkpoints/*
+continual_baselines/checkpoints_new/*
